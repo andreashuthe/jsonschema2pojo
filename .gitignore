@@ -25,3 +25,7 @@ build/
 
 # Mac files #
 .DS_Store
+
+#frontend
+jsonschema2pojo-web/src/main/resources/frontend/jsonschema2pojo-app/node_modules
+jsonschema2pojo-web/src/main/resources/frontend/jsonschema2pojo-app/node
